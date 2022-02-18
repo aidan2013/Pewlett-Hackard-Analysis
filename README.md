@@ -22,7 +22,6 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 ## Summary: 
 
-Provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 Creating a table to see who is does not fall within the mentorship eligibility can provide more insight in order to see how many employees will be retiring in comparison to how many would remain. 
 
 ![image](https://user-images.githubusercontent.com/91445591/154626192-75aba4ae-0dad-426b-b46f-e403f04a33c3.png)
